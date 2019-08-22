@@ -60,7 +60,7 @@ function Stream() {
                     className="link"
                     target="_blank"
                   >
-                    watch {channel.userName}'s' stream
+                    watch {channel.userName}'s stream
                   </a>
                 </button>
               </div>

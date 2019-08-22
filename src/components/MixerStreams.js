@@ -35,7 +35,7 @@ function MixerStream() {
                     className="link"
                     target="_blank"
                   >
-                    watch {channel.user.username}'s' stream
+                    watch {channel.user.username}'s stream
                   </a>
                 </button>
               </div>

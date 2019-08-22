@@ -1,9 +1,11 @@
 # Twixer
+
 A website, written in React, that allows for browsing of the top streams on Twitch and Mixer.
 
-To-do: 
-- Filter results by stream source (i.e: Twitch or Mixer)
+To-do:
+
+- Allow for important resources (i.e: Game being played)to be seen on both types of stream
 - Beautify
 - Allow browsing by game
 - Implement search
-- Add other stream sources (?Youtube)
+- Add other stream sources (Youtube?)
